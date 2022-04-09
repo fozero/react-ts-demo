@@ -1,0 +1,27 @@
+
+.taskItem{
+    display: flex;
+    justify-content: center;
+    padding: 5px 0;
+}
+.statusText{
+    margin-left: 20px;
+}
+.pending{
+    color: #666;
+}
+.inProgress{
+    color: #87d068;
+}
+.completed{
+    color: #2db7f5;
+}
+.btns{
+    width: 120px;
+    margin-left: 10px;
+    text-align: center;
+}
+.btn{
+    margin-left: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,17 @@
+
+.container{
+    text-align: center;
+}
+.title{
+    font-size: 28px;
+}
+.textInput{
+    padding:5px 10px;
+}
+.addBtn{
+    margin-left: 15px;
+    cursor: pointer;
+}
+.list{
+    margin-top: 20px;
+}
